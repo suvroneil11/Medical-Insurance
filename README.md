@@ -46,9 +46,9 @@ Follow these steps to reproduce the results:
    ```
    
 2. Install Dependencies
-  ```bash
-  pip install -r requirements.txt
-  ```
+     ```bash
+     pip install -r requirements.txt
+     ```
 
 ## Results
 - I found that while training different models, RandomForest and XGBoost had the best training performance out of all the other models having Mean Absolute error
